@@ -1,5 +1,5 @@
 local Translations = {
-["NOL | Forsaken"] = "NOL | 被遗弃者",
+    ["NOL | Forsaken"] = "NOL | 被遗弃者",
     ["#0f0f0f"] = "",
     ["100K/s"] = "100千/秒",
     ["10K/s"] = "10千/秒",
