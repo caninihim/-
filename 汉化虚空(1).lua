@@ -9,30 +9,30 @@ local Translations = {
     ["Bring"] = "获取",
     ["BETA"] = "测试",
     ["Search"] = "搜索",
+    ["TP to"] = "传送到",
+    ["Teleport To "] = "传送到",
+    ["Teleport"] = "传送",
+    ["TP"] = "传送",
     ["Information"] = "信息",
     ["Fun"] = "趣味",
     ["Stuff"] = "物品",
     ["Main"] = "主菜单",
     ["Fishing"] = "钓鱼",
-    ["Teleport"] = "传送",
     ["Visuals"] = "视觉效果",
     ["Local"] = "本地",
     ["Misc"] = "杂项",
     ["Theme"] = "主题",
     ["Config"] = "配置",
     ["Select"] = "选择",
-    ["Teleport To "] = "传送到",
     ["Refresh"] = "刷新",
     ["List"] = "列表",
     ["Structure"] = "建筑",
     ["Select"] = "选择",
-    ["TP"] = "传送",
     ["Camp"] = "营地",
-    ["TP to"] = "传送到",
     ["Warm Place"] = "温暖的地方",
     ["Chest"] = "宝箱",
-    ["Tree"] = "树",
     ["Trees"] = "树",
+    ["Tree"] = "树",
     ["Type"] = "类型",
     ["Small"] = "小",
     ["Chop"] = "砍伐",
@@ -188,7 +188,7 @@ setupTranslationEngine()
 
 local success, err = pcall(function()
 --这下面填加载外部脚本
-loadstring(game:HttpGet("https://raw.githubusercontent.com/caninihim/-/refs/heads/main/%E6%B1%89%E5%8C%96%E8%99%9A%E7%A9%BA"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/caninihim/-/refs/heads/main/%E6%B1%89%E5%8C%96%E8%99%9A%E7%A9%BA(1).lua"))()
 
 
 end)
