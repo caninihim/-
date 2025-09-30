@@ -13,7 +13,6 @@ local Translations = {
     ["Teleport To "] = "传送到",
     ["Teleport"] = "传送",
     ["TP"] = "传送",
-    ["Trees"] = "树",
     ["Information"] = "信息",
     ["Fun"] = "趣味",
     ["Stuff"] = "物品",
