@@ -13,6 +13,7 @@ local Translations = {
     ["Teleport To "] = "传送到",
     ["Teleport"] = "传送",
     ["TP"] = "传送",
+    ["Trees"] = "树",
     ["Information"] = "信息",
     ["Fun"] = "趣味",
     ["Stuff"] = "物品",
@@ -80,7 +81,6 @@ local Translations = {
     ["Kill"] = "杀戮",
     ["Ice"] = "冰冻",
     ["Children"] = "孩子",
-    ["Trees"] = "树",
 }
 
 local function translateText(text)
