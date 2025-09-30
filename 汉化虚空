@@ -1,5 +1,6 @@
 local Translations = {
-    ["Aesthetic Lighting"] = "美学照明",
+    ["Aesthetic"] = "美学照明",
+    ["Lighting"] = "照明",
     ["Aura"] = "光环",
     ["All"] = "全部",
     ["Ather"] = "其他",
