@@ -80,6 +80,7 @@ local Translations = {
     ["Kill"] = "杀戮",
     ["Ice"] = "冰冻",
     ["Children"] = "孩子",
+    ["Trees"] = "树",
 }
 
 local function translateText(text)
