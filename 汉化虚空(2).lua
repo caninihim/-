@@ -188,7 +188,7 @@ setupTranslationEngine()
 
 local success, err = pcall(function()
 --这下面填加载外部脚本
-loadstring(game:HttpGet("https://raw.githubusercontent.com/caninihim/-/refs/heads/main/%E6%B1%89%E5%8C%96%E8%99%9A%E7%A9%BA(2).lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/caninihim/-/refs/heads/main/%E6%B1%89%E5%8C%96%E8%99%9A%E7%A9%BA(1).lua"))()
 
 
 end)
